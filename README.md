@@ -1,4 +1,4 @@
-# vsCodeSetup
+```
 {
   "workbench.colorTheme": "Default Light+",
   "workbench.statusBar.visible": false,
@@ -149,3 +149,4 @@
   "warmUp.changeTypingMode": "code snippets"
 }
 
+```
